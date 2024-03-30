@@ -1,4 +1,4 @@
-Analyzing the Impact of Batch Normalization and Layer Normalization
+# Analyzing the Impact of Batch Normalization and Layer Normalization
 
 Step 1: Implementing Batch Normalization:
 Begin by creating a neural network architecture and incorporating Batch Normalization layers. Train the neural network twice: once with Batch Normalization enabled and once without it. Use the training and validation loss curves to assess the impact of Batch Normalization on model performance.
